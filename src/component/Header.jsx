@@ -235,5 +235,3 @@ const Header = () => {
   );
 };
 export default Header;
-import { FaCircleDot } from "react-icons/fa6";
-<FaCircleDot />
