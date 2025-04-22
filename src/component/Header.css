@@ -1,0 +1,187 @@
+.main{
+    width:100%;
+    height:140vh;
+    border:2px solid black;
+    display: flex;
+    font-family: sans-serif;
+    max-width: 80%;
+}
+
+.frist-box{
+    width: 100%;
+    padding: 20px;
+    /* height: 200px; */
+    border: 1px solid black;
+}
+
+.second-box{
+    width: 100%;
+    max-width: 400px;
+    border: 1px solid black;
+}
+.icons{
+    display: flex;
+}
+.searchbar{
+    width:100%;
+    padding:8px;
+    max-width: 350px;
+    border-radius: 10px;
+    font-size: 12px;
+    margin-left: 30px;
+    background: rgb(235, 244, 255);
+}
+.icon1{
+    color:grey;
+    align-items: space-between;
+
+}
+
+.foodimg{
+    /* border:2px solid red; */
+    display: flex;
+    width:100%;
+    margin-top: 40px;
+    /* padding: 10px; */
+    /* padding-bottom: 20px; */
+    max-width: 720px;
+    border-radius: 10px;
+    background: rgb(221, 255, 227);
+}
+
+.class{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   display: flex;
+   color: rgb(19, 167, 48);
+
+}
+.box1{
+    border:2px solid rgb(41, 106, 43);
+    margin-top: 90px;
+    border-radius: 20px;
+    max-width: 120px;
+    padding: 8px;
+    font-size: medium;
+}
+.img{
+    border-radius: 20px;
+    
+}
+.categories{
+    margin-top: 20px;
+}
+.button{
+    border:2px solid black;
+    padding: 20px;
+    margin-top: 10px;
+}
+.hotelcard{
+    border:2px solid black;
+    /* padding:120px; */
+    margin-top: 10px;
+    display: flex;
+}
+.hotelcard2{
+    border:2px solid black;
+    margin-top: 15px;
+    display: flex;
+    
+}
+
+.card1{
+  border:2px solid blue;
+  height:200px;
+  width:150px;
+  
+}
+
+.card2{
+    border:2px solid blue;
+    height:200px;
+    width:150px;
+    margin-left: 20px; 
+}
+.card3{
+    border:2px solid blue;
+    height:200px;
+    width:150px;
+    margin-left: 20px; 
+}
+.card4{
+    border:2px solid blue;
+    height:200px;
+    width:150px;
+    margin-left: 20px; 
+}
+.card5{
+    border:2px solid blue;
+    height:200px;
+    width:150px;
+    margin-left: 20px; 
+}
+.image img{
+    border:1px solid red;
+    height:100px;
+
+}
+.image2 img{
+    border:1px solid red;
+    height:100px;
+
+}
+.image1{
+    border:1px solid red;
+    height:100px;
+
+}
+.image3{
+    border:1px solid red;
+    height:100px;
+
+}
+.image4{
+    border:1px solid red;
+    height:100px;
+
+}
+
+.minute{
+    display:flex;
+    justify-content: space-between;
+}
+.card6{
+    border:2px solid blue;
+    height:200px;
+    width:150px;
+    margin-left: 20px; 
+}
+.card7{
+    border:2px solid blue;
+    height:200px;
+    width:150px;
+    margin-left: 20px; 
+}
+.card8{
+    border:2px solid blue;
+    height:200px;
+    width:150px;
+    margin-left: 360px; 
+    
+   
+}
+.card9{
+    border:2px solid blue;
+    height:200px;
+    width:150px;
+    margin-left: 360px; 
+   
+}
+.card10{
+    border:2px solid blue;
+    height:200px;
+    width:150px;
+    margin-left: 360px; 
+   
+}
